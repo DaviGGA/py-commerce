@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nome": "Coxinha",
+        "preco": 5.00,
+        "categoria": "Salgado"
+    },
+    {
+        "id": 2,
+        "nome": "Pastel",
+        "preco": 4.00,
+        "categoria": "Salgado"
+    },
+    {
+        "id": 3,
+        "nome": "Empada",
+        "preco": 3.50,
+        "categoria": "Salgado"
+    },
+    {
+        "id": 4,
+        "nome": "Enroladinho",
+        "preco": 3.00,
+        "categoria": "Salgado"
+    },
+    {
+        "id": 5,
+        "nome": "Suco",
+        "preco": 6.00,
+        "categoria": "Bebida"
+    },
+    {
+        "id": 6,
+        "nome": "Refrigerante 350ML",
+        "preco": 6.00,
+        "categoria": "Bebida"
+    },
+    {
+        "id": 7,
+        "nome": "Milkshake",
+        "preco": 9.50,
+        "categoria": "Bebida"
+    },
+    {
+        "id": 8,
+        "nome": "Agua",
+        "preco": 2.0,
+        "categoria": "Bebida"
+    },
+    {
+        "id": 9,
+        "nome": "Folhado",
+        "preco": 3.00,
+        "categoria": "Salgado"
+    },
+    {
+        "id": 10,
+        "nome": "Caldo de cana",
+        "preco": 2.50,
+        "categoria": "Bebida"
+    }
+]
